@@ -1,2 +1,2 @@
-# javascript-rock-paper-scissors
-from oding project
+Rock Paper scissors game played in terminal
+coded in javascript
